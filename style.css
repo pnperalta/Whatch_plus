@@ -1,0 +1,209 @@
+body{
+    background:linear-gradient(85deg, black, rgb(50, 50, 50));
+}
+
+footer{
+    justify-content: center;
+    background-color: #101010;
+}
+
+main{
+    display: block;
+}
+.indice{
+    justify-content: center;
+    text-align: center;
+    padding: 2%;
+    font-size: 25px;
+    color: black;
+}
+.indice a{
+    padding: 5%;
+    font-size: 40px;
+    color:aliceblue;
+}
+.inicio{
+    text-align: right;
+    font-size: 25px;
+}
+.inicio a{
+    padding: 1%;
+    font-size: 30px;
+    color:aliceblue;
+}
+#titulo{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 0.5%;
+}
+#titulop{
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: 500;
+    padding: 0.5%;
+}
+#titulot{
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: 500;
+    padding: 0.5%;
+}
+.tarjeta{
+    display: flex;
+    padding: 0,5%;
+    margin-bottom: 5%;
+}
+.tarjetat{
+    display: flex;
+    padding: 0,5%;
+    margin-bottom: 5%;
+}
+.cdos{
+    margin-left: 1%;
+}
+.card-title{
+    font-size: 25px;
+}
+.card-text{
+    font-size: 17px;
+}
+.texto{
+    top: 93.6%;
+    left: 80%;
+    font-size: 20px;
+    position: absolute;
+}
+.estrella{
+    width: 40px;
+    margin-left: 45%;
+}
+.blanco{
+    width: 116px;
+
+}
+.ctres{
+    margin-left: 1%;
+}
+.blancon{
+    width: 74px;
+}
+.blanco3{
+    width: 116px;
+}
+.blanco4{
+    width: 95px;
+}
+
+.form-label{
+    color: aliceblue;
+    font-size: 30px;
+}
+.sesion{
+    margin-left: 38%;
+    margin-top: 5%;
+    margin-bottom: 2.9%;
+    width: 400px;
+    height: 300px;
+}
+.form-check-label{
+    color: aliceblue;
+    font-size: 17px;
+}
+.is{
+    margin-left: 38%;
+    margin-top: 5%;
+    color: aliceblue;
+    font-size: 60px;
+}
+.textoi{
+    color: aliceblue;
+    font-size: 20px;
+}
+.textope{
+    color: #000000;
+    font-size: 20px;
+    top: 94.6%;
+    left: 80%;
+    font-size: 20px;
+    position: absolute;
+}
+.preguntas{
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+.blancoded{
+    width: 235px;
+}
+.blancoteen{
+    width: 233px;
+}
+.blanconm{
+    width: 73.4px;
+}
+
+.ftexto{
+    color: #000000;
+    padding: 1%;
+    margin-left: 35.5%;
+}
+.redes{
+    margin-left: 42.5%;
+    padding: 1%;
+}
+
+.ig{
+    padding: 0.5%;
+    width: 50px;
+}
+.tw{
+    width: 50px;
+    margin-left: 5%;
+}
+.fe{
+    width: 40px;
+    margin-left: 5%; 
+}
+.blancoterri{
+    width:  218px;
+}
+.blancohu{
+    width: 260px;
+}
+.blancoex{
+    width: 69px;
+}
+.blancomal{
+    width: 168px;
+}
+.blancoconj{
+    width: 145px;
+}
+.blancoscn{
+    width: 231px;
+}
+.blancodedd{
+    width: 261.7px;
+}
+.blancows{
+    width: 222px;
+}
+.blancows2{
+    width: 10px;
+}
+.blanconnmp{
+    width: 257px;
+}
+.blanconi{
+    width:  243px;
+}
+.blancosp{
+    width: 260px;
+}
+.blancotc{
+    width: 64.5px;
+}
+.blancom{
+    width: 189px;
+}
+
